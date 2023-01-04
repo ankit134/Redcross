@@ -1,0 +1,121 @@
+@media only screen and (max-width:992px) {
+
+    /* Home section  */
+    #home-a {
+        padding: 100px;
+    }
+
+    .home1 p {
+        font: normal normal 600 50px/77px Poppins;
+    }
+
+    /* help-section */
+    #help-section {
+        background-size: 100% 100%;
+    }
+
+
+    #help-section .help-section-container #box-2 {
+        position: relative !important;
+        width: auto;
+        margin-right: 0px;
+
+
+    }
+
+    #help-section .help-section-container #box-2 .help-section-box-container {
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+    }
+
+    #help-section .help-section-container #box-2 .help-section-box-container .help-section-box1 {
+        margin: 5px;
+    }
+
+    #help-section .help-section-container #box-1 {
+        width: unset;
+    }
+
+    /* help-matter section  */
+
+    #help-matter #image1 p {
+        width: unset;
+    }
+
+    /* Support cause Section  */
+    #support-cause .box .item {
+
+        padding-bottom: 60px;
+        width: 51%;
+    }
+
+    #support-cause .box {
+        flex-wrap: wrap;
+        margin: 0 auto;
+    }
+
+    #support-cause .box .item .contain .green h5 {
+        font: normal normal 600 16px/21px Poppins;
+        padding-bottom: 24px;
+        padding-left: 20px;
+    }
+
+
+
+    #support-cause .box .item .contain .green .btn1 {
+        margin-left: 19px;
+        padding: 10px 24px;
+        font: normal normal 600 11px/16px Poppins;
+    }
+
+
+    /* Donation section  */
+    #donation-sec .box {
+        display: block;
+
+    }
+
+    .box .green {
+        margin-top: 33px;
+    }
+
+    #donation-sec .box .green .btn2 {
+        width: 91%;
+    }
+
+
+    /* blog-section  */
+    #blog .box1 .announcement li {
+        font: normal normal normal 11px/20px Poppins !important;
+    }
+
+    #blog .box1 {
+        display: block;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    /* foooter section  */
+    #footer .footer-container {
+        display: block;
+        padding-top: 20px;
+    }
+
+    #footer .footer-container2 {
+        flex-wrap: wrap;
+    }
+
+    #footer .footer-container2 #footer-id1 {
+        width: 100%;
+    }
+
+    #footer .footer-container2 .footer-box2 {
+        width: 100%;
+        padding-top: 16px;
+    }
+
+
+
+
+}

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_41" data-name="Rectangle 41" width="20" height="20" transform="translate(0 0)" fill="#e52f2a" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_40" data-name="Rectangle 40" width="20" height="20" transform="translate(325.238 5922.238)" fill="#e65653" stroke="#707070" stroke-width="1" opacity="0"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_41-2" data-name="Rectangle 41" width="16" height="16" transform="translate(-0.056 -0.056)" fill="#e65653" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_107" data-name="Group 107" transform="translate(20350 -17922)">
+    <rect id="Rectangle_82" data-name="Rectangle 82" width="32" height="32" rx="4" transform="translate(-20350 17922)" fill="#fde5e3"/>
+    <g id="Group_95" data-name="Group 95" transform="translate(-20671.703 12003.297)" opacity="0.89">
+      <g id="Rectangle_40-2" data-name="Rectangle 40" transform="translate(325.704 5922.704)" fill="#e52f2a" stroke="#707070" stroke-width="1" opacity="0">
+        <rect width="24" height="24" stroke="none"/>
+        <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_108" data-name="Group 108" transform="translate(-20669.236 12005.764)">
+      <g id="Mask_Group_15" data-name="Mask Group 15" clip-path="url(#clip-path-2)">
+        <g id="facebook-app-symbol" transform="translate(325.238 5922.238)">
+          <path id="f_1_" d="M11.549,20V10.878H14.61l.459-3.556h-3.52V5.051c0-1.029.285-1.731,1.762-1.731h1.882V.139A25.512,25.512,0,0,0,12.45,0C9.736,0,7.877,1.657,7.877,4.7V7.322H4.807v3.556h3.07V20Z" fill="#e65653"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

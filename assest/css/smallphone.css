@@ -1,0 +1,97 @@
+@media only screen and (max-width:550px) {
+
+    /* Navbar */
+    #navbar .nav1 {
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+
+    #navbar .any {
+
+        margin-left: 0px;
+    }
+
+    #navbar .list {
+        font: normal normal 600 13px/25px Poppins;
+    }
+
+    #navbar li {
+        font: normal normal 600 12px/25px Poppins;
+
+        white-space: nowrap;
+        padding: 13px 8px;
+    }
+
+
+    #navbar .any p {
+        font: normal normal 600 12px/25px Poppins;
+        white-space: nowrap;
+    }
+
+    /* Home section  */
+    #home-a {
+        padding: 50px;
+    }
+
+    .home1 p {
+        font: normal normal 600 37px/65px Poppins;
+    }
+
+    .home1 .btn {
+        font: normal normal 600 13px/10px Poppins;
+
+    }
+
+    /* Active Section  */
+    #container {
+        display: block;
+    }
+
+    #active-section .container h2 {
+        font: normal normal 600 27px/73px Poppins;
+    }
+
+    #container .box {
+        margin: 10px;
+    }
+
+
+    /* Help -section  */
+
+    #help-section .help-section-container #box-2 h2 {
+
+        font: normal normal 600 29px/36px Poppins;
+    }
+
+    #help-section .help-section-container #box-2 p {
+        font: normal normal 600 10px/23px Poppins;
+    }
+
+    /* Support Cause  */
+    #support-cause .box .item .contain .green h5 {
+        font: normal normal 600 14px/18px Poppins;
+        padding-bottom: 17px;
+        padding-left: 12px;
+    }
+
+    #support-cause .box .item .contain .green .btn1 {
+        padding: 5px 5px;
+        margin-left: 10px;
+    }
+
+    /* Donation-section  */
+    #donation-sec .box .green .currency-container1 h6 {
+        font: normal normal 600 13px/27px Poppins;
+    }
+
+    #donation-sec .box .green .currency-container2 .currency-container3 h6 {
+        font: normal normal 600 14px/32px Poppins;
+    }
+
+    #donation-sec .box .green .btn2 {
+        padding: 13px 100px;
+
+    }
+
+}
