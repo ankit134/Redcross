@@ -31,6 +31,8 @@
 
 
     /* Home section  */
+
+
     #home-a {
         padding: 50px;
     }
@@ -41,6 +43,12 @@
 
     .home1 .btn {
         font: normal normal 600 13px/10px Poppins;
+
+    }
+
+    #home-a {
+        background-size: cover;
+
 
     }
 

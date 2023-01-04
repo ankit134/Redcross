@@ -2,12 +2,14 @@
 
     /* Home section  */
     #home-a {
+        background-size: cover;
         padding: 100px;
     }
 
     .home1 p {
         font: normal normal 600 50px/77px Poppins;
     }
+
 
     /* help-section */
     #help-section {

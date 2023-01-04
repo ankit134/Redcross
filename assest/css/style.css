@@ -88,6 +88,10 @@ img {
 } */
 
 @media only screen and (min-width:300px) and (max-width:440px) {
+    #home-a {
+        background-size: cover !important;
+    }
+
     #navimage {
         height: 35px !important;
         margin-top: 9px !important;
