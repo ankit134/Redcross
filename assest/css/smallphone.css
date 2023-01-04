@@ -69,8 +69,8 @@
 
 
     #help-section .help-section-container .help-section-box h1 {
-        font: normal normal 600 29px/63px Poppins !important;
 
+        font: normal normal 600 26px/45px Poppins;
     }
 
     #help-section .help-section-container #box-1 p {
@@ -110,7 +110,24 @@
         font: normal normal 600 26px/80px Poppins;
     }
 
+    #support-cause .box .contain {
+        flex-wrap: wrap;
+    }
+
+    #support-cause .box .item {
+        padding-bottom: 27px;
+    }
+
+
     /* Donation-section  */
+    #donation-sec .box .green .currency1 {
+        flex-wrap: wrap;
+    }
+
+    #donation-sec .box .green .currency-container1 {
+        width: unset;
+    }
+
     #donation-sec .box .green .currency-container1 h6 {
         font: normal normal 600 13px/27px Poppins;
     }
@@ -124,12 +141,14 @@
 
     }
 
+
     #donation-sec .box .content h1 {
-        font: normal normal 600 32px/80px Poppins;
+        font: normal normal 600 32px/60px Poppins;
     }
 
     #donation-sec .box .content p {
         font: normal normal normal 16px/29px Poppins;
+        margin: unset;
     }
 
 
