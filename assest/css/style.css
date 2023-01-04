@@ -80,6 +80,37 @@ img {
     display: flex;
 }
 
+/* @media only screen and (min-width:300px) and (min-width:440px) {
+    #navbar .any {
+        margin-top: -10px !important;
+        margin-left: -31px !important;
+    }
+} */
+
+@media only screen and (min-width:300px) and (max-width:440px) {
+    #navimage {
+        height: 35px !important;
+        margin-top: 9px !important;
+    }
+
+    #navimage1 {
+        height: 22px !important;
+        margin-top: 13px !important;
+    }
+
+    .home1 .list2 {
+        font: normal normal normal 11px/59px Poppins !important;
+    }
+
+    #active-section .container h2 {
+        font: normal normal 600 22px/73px Poppins !important;
+    }
+}
+
+
+
+
+
 
 
 /* #navbar .logos img {
@@ -243,7 +274,7 @@ img {
 
 #container .box {
     border: 1px solid #DDD6D6;
-    padding-top: 15px;
+    padding-top: 25px;
     /* max-width: 1270px; */
     /* width: 20%; */
 }

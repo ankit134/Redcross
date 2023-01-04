@@ -1,16 +1,16 @@
 @media only screen and (max-width:550px) {
 
     /* Navbar */
-    #navbar .nav1 {
+    /* #navbar .nav1 {
         flex-wrap: wrap;
         justify-content: center;
 
-    }
+    } */
 
-    #navbar .any {
+    /* #navbar .any {
 
         margin-left: 0px;
-    }
+    } */
 
     #navbar .list {
         font: normal normal 600 13px/25px Poppins;
@@ -28,6 +28,7 @@
         font: normal normal 600 12px/25px Poppins;
         white-space: nowrap;
     }
+
 
     /* Home section  */
     #home-a {
@@ -54,6 +55,13 @@
 
     #container .box {
         margin: 10px;
+    }
+
+    #container .box p {
+        padding-bottom: 6%;
+        padding-left: 6%;
+        padding-right: 6%;
+        padding-top: unset;
     }
 
 
