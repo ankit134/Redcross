@@ -67,6 +67,16 @@
 
     /* Help -section  */
 
+
+    #help-section .help-section-container .help-section-box h1 {
+        font: normal normal 600 29px/63px Poppins !important;
+
+    }
+
+    #help-section .help-section-container #box-1 p {
+        font: normal normal normal 14px/22px Poppins;
+    }
+
     #help-section .help-section-container #box-2 h2 {
 
         font: normal normal 600 29px/36px Poppins;
@@ -74,6 +84,13 @@
 
     #help-section .help-section-container #box-2 p {
         font: normal normal 600 10px/23px Poppins;
+    }
+
+    /* Help-matter  */
+
+
+    #help-matter h2 {
+        font: normal normal 600 24px/80px Poppins;
     }
 
     /* Support Cause  */
@@ -88,6 +105,11 @@
         margin-left: 10px;
     }
 
+    #support-cause h1 {
+        padding-top: unset;
+        font: normal normal 600 26px/80px Poppins;
+    }
+
     /* Donation-section  */
     #donation-sec .box .green .currency-container1 h6 {
         font: normal normal 600 13px/27px Poppins;
@@ -100,6 +122,20 @@
     #donation-sec .box .green .btn2 {
         padding: 13px 100px;
 
+    }
+
+    #donation-sec .box .content h1 {
+        font: normal normal 600 32px/80px Poppins;
+    }
+
+    #donation-sec .box .content p {
+        font: normal normal normal 16px/29px Poppins;
+    }
+
+
+    /* Blog-section  */
+    #blog h1 {
+        font: normal normal 600 36px/80px Poppins;
     }
 
 }
