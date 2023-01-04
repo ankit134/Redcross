@@ -97,7 +97,7 @@
     #support-cause .box .item .contain .green h5 {
         font: normal normal 600 14px/18px Poppins;
         padding-bottom: 17px;
-        padding-left: 12px;
+        padding-left: 37px;
     }
 
     #support-cause .box .item .contain .green .btn1 {
@@ -116,6 +116,24 @@
 
     #support-cause .box .item {
         padding-bottom: 27px;
+    }
+
+    #support-cause .box .image2 {
+        max-width: 100%;
+        width: unset;
+    }
+
+    #support-cause .box .item {
+        width: 100%;
+    }
+
+    .box .green {
+        margin-top: 8px;
+    }
+
+    #support-cause .box .item .contain .green .btn1 {
+        padding: 5px 25px !important;
+        margin-left: 35px !important;
     }
 
 
@@ -137,8 +155,9 @@
     }
 
     #donation-sec .box .green .btn2 {
-        padding: 13px 100px;
-
+        padding: 13px 93px;
+        width: 85%;
+        white-space: nowrap;
     }
 
 
@@ -146,9 +165,9 @@
         font: normal normal 600 32px/60px Poppins;
     }
 
-    #donation-sec .box .content p {
+    #donation-sec .box .content #mar {
         font: normal normal normal 16px/29px Poppins;
-        margin: unset;
+        margin-left: 7px;
     }
 
 
@@ -157,4 +176,15 @@
         font: normal normal 600 36px/80px Poppins;
     }
 
+
+    /* Footer Section  */
+    #footer .footer-container .footer-box {
+        padding-bottom: unset;
+
+
+    }
+
+    #footer .footer-container .footer-box .footer-btn {
+        margin-bottom: 38px;
+    }
 }
